@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "Prachi",
+  photo: "./img/IMG-20260424-WA0048.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "I really like your name as my mother!",
     },
     {
       type: "countdown",
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "It's your day prachi!! :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy mothers day to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "Send",
     },
     {
@@ -86,8 +86,19 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "You were never meant to hold a child,
+Yet you hold my chaos so gently.
+You scold me when I break apart,
+And love me even more silently.
+
+So on this Mother’s Day, my love,
+I smile at this beautiful irony —
+You are the baby of my heart,
+Yet the safest home inside me.
+
+Happy Mother’s Day to the mother of my future,
+And the softest soul of my present🌼💕.",
+      author: "Prayush",
     },
     {
       type: "stars",
@@ -99,8 +110,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Happy Mother's Day!",
+      wishText: "May the next time i wish you i can you! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +123,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Okay, now come back and tell me if you liked it or not .",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
