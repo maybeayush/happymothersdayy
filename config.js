@@ -53,78 +53,67 @@ const CONFIG = {
   // ── Sections ──────────────────────────────────────────────────
   // Add, remove, duplicate, or reorder as you wish!
   sections: [
-    {
-      type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name as my mother!",
-    },
-    {
-      type: "countdown",
-      from: 3,                    // Countdown from this number
-      goText: "🎉",              // Text shown after countdown ends
-    },
-    {
-      type: "announcement",
-      text: "It's your day prachi!! :D",
-    },
-    {
-      type: "chatbox",
-      message:
-        "Happy mothers day to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
-    },
-    {
-      type: "ideas",
-      lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
-      ],
-      bigLetters: "SO",
-    },
-    {
-      type: "quote",
-      text: "You were never meant to hold a child,
-Yet you hold my chaos so gently.
-You scold me when I break apart,
-And love me even more silently.
-
-So on this Mother’s Day, my love,
-I smile at this beautiful irony —
-You are the baby of my heart,
-Yet the safest home inside me.
-
-Happy Mother’s Day to the mother of my future,
-And the softest soul of my present🌼💕.",
-      author: "Prayush",
-    },
-    {
-      type: "stars",
-      count: 40,
-    },
-    {
-      type: "balloons",
-      count: 25,
-    },
-    {
-      type: "profile",
-      wishTitle: "Happy Mother's Day!",
-      wishText: "May the next time i wish you i can you! ;)",
-    },
-    {
-      type: "fireworks",
-      count: 24,
-    },
-    {
-      type: "confetti",
-      count: 9,
-    },
-    {
-      type: "closing",
-      text: "Okay, now come back and tell me if you liked it or not .",
-      replayText: "Or click, if you want to watch it again.",
-    },
-  ],
-};
+  {
+    type: "greeting",
+    title: "Dear Prachi",
+    subtitle: "Happy Mother's Day to the future mother of my dreams ❤️",
+  },
+  {
+    type: "countdown",
+    from: 3,
+    goText: "💐",
+  },
+  {
+    type: "announcement",
+    text: "Today is all about celebrating you 🌸",
+  },
+  {
+    type: "chatbox",
+    message:
+      "Happy Mother's Day, my love. Even though you're my cute little baby, you still care for me with the warmth, love, and comfort of a mother. Thank you for being my safe place ❤️",
+    buttonText: "Open",
+  },
+  {
+    type: "ideas",
+    lines: [
+      "I wanted to wish you something simple.",
+      "But simple words never feel enough for you.",
+      "Because your love feels like <strong>home</strong>.",
+      "Your care feels like peace.",
+      "And your smile feels like my whole world <span>❤️</span>",
+    ],
+    bigLetters: "LOVE",
+  },
+  {
+    type: "quote",
+    text: "Some people give love, some people give peace. You somehow give both.",
+    author: "For Prachi ❤️",
+  },
+  {
+    type: "stars",
+    count: 40,
+  },
+  {
+    type: "balloons",
+    count: 25,
+  },
+  {
+    type: "profile",
+    wishTitle: "Happy Mother's Day 💐",
+    wishText:
+      "To the girl who loves me like a child and protects me like home.",
+  },
+  {
+    type: "fireworks",
+    count: 24,
+  },
+  {
+    type: "confetti",
+    count: 12,
+  },
+  {
+    type: "closing",
+    text: "I hope this made you smile today ❤️",
+    replayText: "Click here if you want to watch it again.",
+  },
+],
