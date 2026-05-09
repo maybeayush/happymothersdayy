@@ -61,7 +61,7 @@ const CONFIG = {
     {
       type: "countdown",
       from: 3,                    // Countdown from this number
-      goText: "🎉",              // Text shown after countdown ends
+      goText: "🌼",              // Text shown after countdown ends
     },
     {
       type: "announcement",
